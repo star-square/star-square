@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Star Yznaga: @star-square
-- 👀 I’m interested in Ruby, Rails, JS, Node/NPM, DevOps, web UX
-- 🌱 I’m currently learning Ruby and Rails
-- 💞️ I’m looking to collaborate on: N/A for now
-- 📫 How to reach me: @star_yznaga on Twitter
+- 👋 Hi, you can call me: Star Yznaga
+- 👀 I’m interested in: Ruby, JS, Rails, React, UX, API architecture
+- 🌱 I’m currently learning: N/A
+- 💞️ I’m looking to collaborate on: N/A
+- 📫 How to reach me: Slack
 
 <!---
 star-square/star-square is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
